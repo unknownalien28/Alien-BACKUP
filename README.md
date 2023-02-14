@@ -3,37 +3,37 @@
     <img src="https://media1.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif" width="610">
      
 </p>
-<h1 align="center"> A17 BoT (Beta)
+<h1 align="center"> Alien BoT (Beta)
 </h1>
 <p align="center"> 
-  Hemlo, I am "A17" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+  Hemlo, I am "Alien Bot" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
    <p align="center"> 
-  <a href="https://github.com/Kai0071/A17/stargazers">
+  <a href="https://github.com/unknownalien28/Alien-BACKUP/stargazers">
     <img src="https://img.shields.io/github/stars/Kai0071/A17?style=social">
     
    <p align="center">
-  <a href="https://github.com/Kai0071/A17/fork">
+  <a href="https://github.com/unknownalien28/A17/fork">
     <img src="https://img.shields.io/github/forks/Kai0071/A17?label=Fork&style=social">
     
 <p align="center">
-  <a href="https://github.com/Kai0071/A17">
+  <a href="https://github.com/unknownalien28/Alien-BACKUP">
     <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/Kai0071/A17.visitor-badge&left_text=Total%20Repo%20Visits">
  
   <p align="CENTER">
-  <a href="https://github.com/Kai0071"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/unknownalien28"><img title="Support" src="https://img.shields.io/badge/Maintain-Yes-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
     
 
      
   
 <p align="CENTER">
-  <a href="https://github.com/Kai0071"><img title="Support" src="https://img.shields.io/badge/next%20Update-Undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
+  <a href="https://github.com/unknownalien28"><img title="Support" src="https://img.shields.io/badge/next%20Update-Undefined!-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
       
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Kai0071/A17/fork)
+- FORK THE REPOSITORY [Here](https://github.com/unknownalien28/Alien-BACKUP/fork)
 
 
  
@@ -72,7 +72,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 
-git clone https://github.com/Kai0071/A17
+git clone https://github.com/unknownalien28/Alien-BACKUP
 cd A17
 npm i
 npm start
@@ -101,13 +101,13 @@ npm i -g forever && forever index.js && forever save && forever logs
 Edit your config details in your own repo like -- [`config.js`](https://github.com/Kai0071/A17/blob/master/config.js)
 ```js
 
-13  global.Owner = ['916297175943']
-14  global.OwnerNumber = ['916297175943']
-15  global.ownertag = ['916297175943']
-16  global.BotName = "A17" 
-17  global.packname = "A17 bot"
-18  global.author = "By: Kai"
-19  global.OwnerName = "Kai"
+13  global.Owner = ['2348100236360']
+14  global.OwnerNumber = ['2348100236360']
+15  global.ownertag = ['2348100236360']
+16  global.BotName = "Alien" 
+17  global.packname = "Alien bot"
+18  global.author = "By: Bashir Ibrahim"
+19  global.OwnerName = "Bashir Ibrahim"
 
 ```
    
@@ -146,7 +146,7 @@ Comment out/delete /* , */ the code form your Core.js line 224,332 in your own r
 <h2 align="center"> ✧ Join My Whatsapp Group for Support ✧
 </h2>
 
-<h2 align="center">  <a href="https://chat.whatsapp.com/EsNqFrGKxGXFrdwgRaQl9q"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<h2 align="center">  <a href="https://chat.whatsapp.com/C2ZoJEXteGs2Yz1qalTcVj"><img src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </h2>
