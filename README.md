@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/Kai0071">
+   <a href="https://github.com/unknownalien28">
     <img src="https://media1.giphy.com/media/XqVUeEK5Lt3VOGEzJj/giphy.gif" width="610">
      
 </p>
@@ -73,7 +73,7 @@ pkg install wget
 pkg install imagemagick -y
 
 git clone https://github.com/unknownalien28/Alien-BACKUP
-cd A17
+cd Alien-BACKUP
 npm i
 npm start
 ```
@@ -90,7 +90,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 * [`Download Libwebp`](https://developers.google.com/speed/webp/download)
 ```cmd
 > git clone https://github.com/Kai0071/A17.git
-> cd A17
+> cd Alien-BACKUP
 > npm i
 > npm start
 ```
